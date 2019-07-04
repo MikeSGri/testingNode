@@ -1,3 +1,4 @@
+/*
 const mongoClient=require("mongodb").MongoClient
 const objectId= require("mongodb").ObjectID
 const dbName= "restAPI"
@@ -22,4 +23,4 @@ const getPrimaryKey=(_id)=>{
 const getDB=()=>{
     return state.db
 }
-module.exports={getDB,connect,getPrimaryKey}
+module.exports={getDB,connect,getPrimaryKey}*/
